@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0997-find-the-town-judge) |
+| [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
+| [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
 <!---LeetCode Topics End-->
