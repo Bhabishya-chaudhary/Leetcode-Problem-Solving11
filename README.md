@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0997-find-the-town-judge) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0997-find-the-town-judge) |
 ## Graph Theory
 |  |
@@ -33,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 ## Simulation
 |  |
