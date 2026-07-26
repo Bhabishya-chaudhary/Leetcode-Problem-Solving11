@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0739-daily-temperatures) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
