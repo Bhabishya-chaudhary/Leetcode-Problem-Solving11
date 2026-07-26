@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0909-snakes-and-ladders) |
 | [0997-find-the-town-judge](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0997-find-the-town-judge) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
