@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
