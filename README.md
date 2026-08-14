@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0739-daily-temperatures) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
 | [0844-backspace-string-compare](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1544-make-the-string-great) |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
