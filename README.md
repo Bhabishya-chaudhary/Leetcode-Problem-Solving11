@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1706-where-will-the-ball-fall](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1706-where-will-the-ball-fall) |
+| [2104-sum-of-subarray-ranges](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
