@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0704-binary-search) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
