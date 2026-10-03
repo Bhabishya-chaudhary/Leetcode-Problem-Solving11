@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0032-longest-valid-parentheses) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0224-basic-calculator) |
 | [0844-backspace-string-compare](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
