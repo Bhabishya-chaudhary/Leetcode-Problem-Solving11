@@ -1,46 +1,44 @@
-class Solution {
+class Solution
+{
 public:
-  // Apprach one using Recursion and memo
-   int t [105][105];
-   bool solve(int idx, int open, string &s, int n) { 
+    // Apprach two
+    bool checkValidString(string s)
+    {
+        int n = s.size();
 
-    if(idx == n) {
-     return  open == 0;
+        vector<vector<bool>> t(n + 1, vector<bool>(n + 1, false));
+        // State Definition :
+        // t[i][j] = if the string from index i to n-1 is valid or not having j open brackets
+        t[n][0] = true;
+
+        for (int i = n - 1; i >= 0; i--)
+        {
+            for (int open = 0; open <= n; open++)
+            {
+                bool isvalid = false;
+                // for star
+                if (s[i] == '*')
+                {
+                    isvalid |= t[i + 1][open + 1]; // Treating as open..
+                    isvalid |= t[i + 1][open];     // Treating as empty..
+
+                    if (open > 0)
+                    {
+                        isvalid |= t[i + 1][open - 1]; // Treating as close..
+                    }
+                }
+
+                else if (s[i] == '(')
+                {
+                    isvalid |= t[i + 1][open + 1]; // Treating as open..
+                }
+                else if (open > 0)
+                {
+                    isvalid |= t[i + 1][open - 1]; // Treating as close..
+                }
+            t[i][open] = isvalid;
+        }
     }
-
-    if(t[idx][open] != -1) {
-      return t[idx][open] == 1 ? true : false;
-    } 
-
-    bool isvalid = false;
-     //case one star
-     if(s[idx] == '*') {  //* = ---> //open --> empty --> close
-
-          isvalid |=  solve(idx + 1, open + 1, s, n);  //open case 
-          isvalid |=  solve(idx + 1, open , s, n);     //empty case
-
-         if(open > 0) {
-           isvalid |= solve(idx + 1, open - 1, s, n); //close case
-          }
-      }
-      //case two open
-      else if (s[idx] == '(') {
-        isvalid |= solve(idx + 1, open + 1, s, n); //open 
-      }
-      
-      //case two close 
-      else if(open > 0) {
-       isvalid |= solve(idx + 1, open - 1, s, n); //close
-      }
-    return t[idx][open] = isvalid;
-  }
-
-    bool checkValidString(string s) {
-
-      int  n = s.size();
-      memset(t, -1, sizeof(t));
-      return solve(0, 0, s, n);
-
-        
-    }
+    return t[0][0];
+}
 };
