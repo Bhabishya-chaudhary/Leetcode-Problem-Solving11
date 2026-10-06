@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/2390-removing-stars-from-a-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
@@ -165,4 +168,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhabishya-chaudhary/Leetcode-Problem-Solving11/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
